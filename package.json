@@ -12,6 +12,9 @@
     "nodemon": "^2.0.22",
     "uuid": "^9.0.0"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "name": "backend",
   "version": "1.0.0",
   "main": "app.js",
